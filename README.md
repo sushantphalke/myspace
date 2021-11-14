@@ -1,2 +1,2 @@
 # textutilsapp link :
-https://sushantphalke.github.io/textutilsapp/
+https://sushantphalke.github.io/website/
